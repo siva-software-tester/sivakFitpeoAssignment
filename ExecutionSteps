@@ -1,0 +1,10 @@
+# The code is written in Selenium Java
+# Eclipse IDE is used to develope and run the code. 
+# Chromedriver.exe is needed to be installed to be installed to open the automation script in chrome.The below diver version is used to build the code
+# From url : https://googlechromelabs.github.io/chrome-for-testing/ chromedriver win64 is downloaded and used to build the code.
+# Chromediver downloaded from url to build this project: https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.85/win64/chromedriver-win64.zip
+#Once installed in system, unzip the chromedriver-win64 file and place it is in C drive , as the code is written to take the chome diver.exe from C path as below
+#C:\\chromedriver-win64\\chromedriver.exe
+
+# Right click on FitPeoRevenueCalculator.java -->Run As--> Java application -->to run the code
+#The chromedriver will be opened to execute the automation script
